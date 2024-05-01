@@ -1,0 +1,16 @@
+﻿@model List<employe>
+<a asp-controller="employee" asp-action="nweemp">add new employee</a>
+<table class="table table-bordered">
+    <tr>
+        <td> employee name</td>
+        <td>modify emp</td>
+    </tr>
+    @foreach(employe item in Model)
+    {
+        <tr>
+            <td>@item.Name</td>
+            <td><a href="/employee/modify/@item.Id">click here to modify</a></td>
+        </tr>
+    }
+
+</table>

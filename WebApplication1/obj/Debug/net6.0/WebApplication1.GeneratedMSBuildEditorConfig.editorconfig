@@ -1,0 +1,89 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebApplication1
+build_property.RootNamespace = WebApplication1
+build_property.ProjectDir = C:\Users\COMPUTER   ONE\Desktop\projects\WebApplication1\WebApplication1\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\COMPUTER   ONE\Desktop\projects\WebApplication1\WebApplication1
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/COMPUTER   ONE/Desktop/projects/WebApplication1/WebApplication1/Views/acc/addadmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWNjXGFkZGFkbWluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/COMPUTER   ONE/Desktop/projects/WebApplication1/WebApplication1/Views/acc/login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWNjXGxvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/COMPUTER   ONE/Desktop/projects/WebApplication1/WebApplication1/Views/acc/reegistr.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWNjXHJlZWdpc3RyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/COMPUTER   ONE/Desktop/projects/WebApplication1/WebApplication1/Views/department/getall.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZGVwYXJ0bWVudFxnZXRhbGwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/COMPUTER   ONE/Desktop/projects/WebApplication1/WebApplication1/Views/department/neww.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZGVwYXJ0bWVudFxuZXd3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/COMPUTER   ONE/Desktop/projects/WebApplication1/WebApplication1/Views/employee/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZW1wbG95ZWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/COMPUTER   ONE/Desktop/projects/WebApplication1/WebApplication1/Views/employee/modify.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZW1wbG95ZWVcbW9kaWZ5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/COMPUTER   ONE/Desktop/projects/WebApplication1/WebApplication1/Views/employee/nweemp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZW1wbG95ZWVcbndlZW1wLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/COMPUTER   ONE/Desktop/projects/WebApplication1/WebApplication1/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/COMPUTER   ONE/Desktop/projects/WebApplication1/WebApplication1/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/COMPUTER   ONE/Desktop/projects/WebApplication1/WebApplication1/Views/product/getall.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccHJvZHVjdFxnZXRhbGwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/COMPUTER   ONE/Desktop/projects/WebApplication1/WebApplication1/Views/product/getproduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccHJvZHVjdFxnZXRwcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/COMPUTER   ONE/Desktop/projects/WebApplication1/WebApplication1/Views/role/addrole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Nccm9sZVxhZGRyb2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/COMPUTER   ONE/Desktop/projects/WebApplication1/WebApplication1/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/COMPUTER   ONE/Desktop/projects/WebApplication1/WebApplication1/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/COMPUTER   ONE/Desktop/projects/WebApplication1/WebApplication1/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/COMPUTER   ONE/Desktop/projects/WebApplication1/WebApplication1/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/COMPUTER   ONE/Desktop/projects/WebApplication1/WebApplication1/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-bddmc6yalx

@@ -1,0 +1,32 @@
+﻿@model WebApplication1.view_models.rolemodel
+
+@{
+    ViewData["Title"] = "addrole";
+}
+
+<h1>addrole</h1>
+
+<h4>rolemodel</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="addrole">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="name" class="control-label"></label>
+                <input asp-for="name" class="form-control" />
+            </div>
+            <div class="form-group">
+                <input type="submit" value="add" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

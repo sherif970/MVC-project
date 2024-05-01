@@ -1,0 +1,16 @@
+﻿@model product
+<table class=" table table-bordered">
+    <tr>
+        <td>the prouct name</td>
+        <td>the prouct descriotion</td>
+        <td>the product price</td>
+        <td>the image of the product</td>
+    </tr>
+    <tr>
+        <td>@Model.name</td>
+        <td>@Model.description</td>
+        <td>@Model.price</td>
+        <td> <img src="/images/@Model.image">  </td>
+        
+    </tr>
+</table>

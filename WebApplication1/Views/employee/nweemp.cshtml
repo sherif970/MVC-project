@@ -1,0 +1,32 @@
+﻿@model employe
+@{
+    SelectList deptlist = new SelectList(ViewBag.dept, "Id", "Name");
+}
+<form method="post" asp-controller="employee" asp-action="savenew">
+    
+    <div>
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" />
+    </div>
+    <div>
+        <label asp-for="salary"></label>
+        <input asp-for="salary" class="form-control" />
+    </div>
+    <div>
+        <label asp-for="adreess"></label>
+        <input asp-for="adreess" class="form-control" />
+    </div>
+
+    <div>
+        <label asp-for="iamge"></label>
+        <input asp-for="iamge" class="form-control" />
+    </div>
+    <div>
+        <label asp-for="dept_id"></label>      
+        <select asp-for="dept_id" asp-items="deptlist" class="form-control">
+        </select>
+    </div>
+    <input type="submit" value="add" class="btn-success" />
+</form>
+
+

@@ -1,0 +1,19 @@
+﻿<table class="table table-bordered">
+    <tr>
+        <td>the prouct name</td>
+        <td>the prouct descriotion</td>
+        <td>the product price</td>
+        <td>the image of the product</td>
+        <td>show the item alone</td>
+    </tr>
+    @foreach(product item in Model)
+    {
+        <tr>
+            <td>@item.name</td>
+            <td>@item.description</td>
+            <td>@item.price</td>
+            <td> <img src="/images/@item.image">  </td>
+            <td><a href="/product/getproduct/@item.Id">detlis</a></td>
+        </tr>
+    }
+</table>
